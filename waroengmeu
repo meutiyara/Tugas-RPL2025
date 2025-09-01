@@ -1,0 +1,9 @@
+run:
+=== Menu Paket Makanan ===
+1. Paket Ayam     -Rp.15.000
+2. Paket Kepiting -Rp.30.000
+3. Paket Kerang   -Rp.20.000
+4. Paket Sayur    -Rp.10.000
+Pilih paket (1-4): 2
+Anda Memilih Paket Kepiting.
+BUILD SUCCESSFUL (total time: 14 seconds)
